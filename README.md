@@ -13,7 +13,7 @@ QSTrader can be best described as a loosely-coupled collection of modules for ca
 
 The default modules provide useful functionality for certain types of systematic trading strategies and can be utilised without modification. However the intent of QSTrader is for the users to extend, inherit or fully replace each module in order to provide custom functionality for their own use case.
 
-The software is currently under active development (semantic version 0.x.x) and is provided under a permissive "MIT" license.
+The software is currently under active development and is provided under a permissive "MIT" license.
 
 # Previous Version and Advanced Algorithmic Trading
 
